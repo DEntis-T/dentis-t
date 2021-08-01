@@ -1,10 +1,8 @@
 ### Hi there! 👋
 
-I like PawnLang, QBasic and Bash.
+I like PawnLang, MS-QBasic VisualBasic and Bash.
 
-Amateur in Python.
-
-I know C/CPP.
+Amateur in Python and HTML.
 
 
 samp mobile is legal, trust me
