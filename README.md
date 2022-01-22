@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I like PawnLang, MS-QBasic VisualBasic and Bash.
+I like PawnLang, MS-QBasic, VisualBasic and Bash.
 
 Amateur in Python and HTML, and eventually C, Pascal...
 
