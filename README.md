@@ -9,4 +9,4 @@ samp mobile is legal, trust me
 
 DC: **DEntisT 💀#0934**
 
-## open.mp
+## open.mp soon InshaAllah
