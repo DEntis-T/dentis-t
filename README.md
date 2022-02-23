@@ -15,6 +15,7 @@ TWEETer: [click on this underscored blue-coloured text](https://twitter.com/stub
 ## Mine
 - SA-MP-DETUtils (first pinned repo)
 - Elware OS (second pinned)
+- D++ (a programming language)
 ## My contributions
 - open.mp Wiki contributions
 - Y_Less' code-parse.inc
