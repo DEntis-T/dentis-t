@@ -1,7 +1,7 @@
 # Introduction 
 ### Hi there! 👋
 
-I like (know) PawnLang, C, MS-QBasic, VisualBasic and Bash.
+I like (know) D++, PawnLang, C, MS-QBasic, VisualBasic and Bash.
 
 Amateur in Python and HTML, Rust, and eventually C, Pascal...
 
