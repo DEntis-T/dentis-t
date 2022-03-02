@@ -11,6 +11,8 @@ Discord: **DEntisT#0934**
 
 TWEETer: [click on this underscored blue-coloured text](https://twitter.com/stuborn_dentist)
 
+FUCKING HELP ME TO SETUP CMAKE
+
 # Projects
 ## Mine
 - SA-MP-DETUtils (first pinned repo)
