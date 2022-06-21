@@ -18,6 +18,7 @@ FUCKING HELP ME TO SETUP CMAKE
 - SA-MP-DETUtils (first pinned repo)
 - Elware OS (second pinned)
 - D++ (a programming language)
+- CEO of **© & ® BRACE™**
 ## My contributions
 - open.mp Wiki contributions
 - Y_Less' code-parse.inc
