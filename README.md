@@ -3,6 +3,8 @@
 
 I like (know) D++, PawnLang, C, MS-QBasic, VisualBasic and Bash.
 
+I'm in love with the Pawn language, it's just simply amazing thing.
+
 Amateur in Python and HTML, Rust, and eventually C, Pascal...
 
 **FUN FACT:** SA:MP for Android by Jekma't is really halal.
@@ -10,8 +12,6 @@ Amateur in Python and HTML, Rust, and eventually C, Pascal...
 Discord: **DEntisT#0934**
 
 TWEETer: [click on this underscored blue-coloured text](https://twitter.com/stuborn_dentist)
-
-FUCKING HELP ME TO SETUP CMAKE
 
 # Projects
 ## Mine
