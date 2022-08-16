@@ -1,17 +1,8 @@
 # Introduction 
 ### Hi there! 👋
-
-I like (know) D++, PawnLang, C, MS-QBasic, VisualBasic and Bash.
-
-I'm in love with the Pawn language, it's just simply amazing thing.
-
-Amateur in Python and HTML, Rust, and eventually C, Pascal...
-
-**FUN FACT:** SA:MP for Android by Jekma't is really halal.
+- I'm one of those Discord, SA:MP and Pawn enthusiasts. 
 
 Discord: **DEntisT#0934**
-
-TWEETer: [click on this underscored blue-coloured text](https://twitter.com/stuborn_dentist)
 
 # Projects
 ## Mine
@@ -19,6 +10,8 @@ TWEETer: [click on this underscored blue-coloured text](https://twitter.com/stub
 - Elware OS (second pinned)
 - D++ (a programming language)
 - CEO of **© & ® BRACE™**
+- DamnLarper Discord Bot
+- © & ® BRACE™ Web
 ## My contributions
 - open.mp Wiki contributions
 - Y_Less' code-parse.inc
