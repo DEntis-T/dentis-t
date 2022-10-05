@@ -14,7 +14,7 @@ backend.
              src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></a>
 </p>
 
-### Programming Languages
+### Languages
 
 <p>
   <a href="#">
@@ -23,6 +23,13 @@ backend.
 <a href="#">
     <img alt="C" src="https://img.shields.io/badge/c-323330?style=for-the-badge&logo=c&logoColor=F7DF1E" />
 	</a>
+<a href="#">
+    <img alt="HTML" src="https://img.shields.io/badge/html-323330?style=for-the-badge&logo=html&logoColor=F7DF1E" />
+	</a>
+<a href="#">
+    <img alt="Bash" src="https://img.shields.io/badge/bash-323330?style=for-the-badge&logo=bash&logoColor=F7DF1E" />
+	</a>
+</p>
 </p>
 
 ## GitHub stats
