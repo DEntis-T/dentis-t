@@ -18,6 +18,6 @@ backend.
 
 <p>
   <a href="#">
-    <img alt="Pawn" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=pawn&logoColor=F7DF1E" />
+    <img alt="Pawn" src="https://img.shields.io/badge/pawn-323330?style=for-the-badge&logo=pawn&logoColor=F7DF1E" />
 	</a>
 </p>
