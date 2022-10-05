@@ -20,4 +20,7 @@ backend.
   <a href="#">
     <img alt="Pawn" src="https://img.shields.io/badge/pawn-323330?style=for-the-badge&logo=pawn&logoColor=F7DF1E" />
 	</a>
+<a href="#">
+    <img alt="C" src="https://img.shields.io/badge/c-323330?style=for-the-badge&logo=c&logoColor=F7DF1E" />
+	</a>
 </p>
