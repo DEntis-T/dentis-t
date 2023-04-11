@@ -34,10 +34,10 @@ backend.
 
 ## GitHub stats
 <p>
-    <a align="center" href="https://github-readme-stats.vercel.app/api?username=DEntis-T&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=ffff00&title_color=000000&icon_color=000000"><img alt="DEntis-T Github Stats"
-                    src="https://github-readme-stats.vercel.app/api?username=DEntis-T&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=ffff00&title_color=000000&icon_color=000000" /></a>
-  <a align="center" href="https://github-readme-stats.vercel.app/api/top-langs/?username=DEntis-T&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=ffff00&title_color=000000&icon_color=000000">
-    <img alt="DEntisT's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEntis-T&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=ffff00&title_color=000000&icon_color=000000" /></a>
+    <a align="center" href="https://github-readme-stats.vercel.app/api?username=DEntis-T&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff"><img alt="DEntis-T Github Stats"
+                    src="https://github-readme-stats.vercel.app/api?username=DEntis-T&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff" /></a>
+  <a align="center" href="https://github-readme-stats.vercel.app/api/top-langs/?username=DEntis-T&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff">
+    <img alt="DEntisT's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEntis-T&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff" /></a>
 </p>
 
 <p>
